@@ -35,13 +35,11 @@ Next, connect the Azure AI services resource you provisioned above to Vision Stu
 
 1. On the Vision Studio home page, select **View all resources** under the **Getting started with Vision** heading.
 
-    ![The View all resource link is highlighted under Getting started with Vision in Vision Studio.](./media/analyze-images-vision/vision-resources.png)
+
 
 1. On the **Select a resource to work with** page, hover your mouse cursor over the resource you created above in the list and then check the box to the left of the resource name, then select **Select as default resource**.
 
     > **Note** : If your resource is not listed, you may need to **Refresh** the page.
-
-    ![The Select a resource to work with dialog is displayed with the cog-ms-learn-vision-SUFFIX Cognitive Services resource highlighted and checked. The Select as default resource button is highlighted.](./media/analyze-images-vision/default-resource.png)
 
 1. Close the settings page by selecting the "x" at the top right of the screen.
 
@@ -59,23 +57,23 @@ Next, connect the Azure AI services resource you provisioned above to Vision Stu
 
 1. Locate the file named **store-camera-1.jpg**; which contains the following image:
 
-    ![An image of people in a store.](./media/create-face-solutions/store-camera-1.jpg)
+   
 
 1. Upload **store-camera-1.jpg** and review the face detection details that are returned.
 
 1. Locate the file named **store-camera-2.jpg**; which contains the following image:
 
-    ![An image of more people in a store.](./media/create-face-solutions/store-camera-2.jpg)
+    
 
 1. Upload **store-camera-2.jpg** and review the face detection details that are returned.
 
 1. Locate the file named **store-camera-3.jpg**; which contains the following image:
 
-    ![An image of people in a store with a plant obscuring a face.](./media/create-face-solutions/store-camera-3.jpg)
+
 
 1. Upload **store-camera-2.jpg** and review the face detection details that are returned. Notice how Azure AI Face can detect faces that are partially obscured. 
 
-In this exercise you have explored how Azure AI services can detect faces in images. If you have time, feel free to try the sample images or some of your own images.
+In this exercise, you have explored how Azure AI services can detect faces in images. If you have time, feel free to try the sample images or some of your images.
 
 ## Clean up
 
