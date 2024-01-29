@@ -31,17 +31,16 @@ Next, connect the Azure AI service resource you provisioned above to Vision Stud
 
 1. In another browser tab, navigate to [Vision Studio](https://portal.vision.cognitive.azure.com?azure-portal=true).
 
-1. Sign in with your account and making sure you are using the same directory as the one where you have created your Azure AI services resource.
+1. Sign in with your account and make sure you are using the same directory as the one where you have created your Azure AI services resource.
 
 1. On the Vision Studio home page, select **View all resources** under the **Getting started with Vision** heading.
 
-    ![The View all resource link is highlighted under Getting started with Vision in Vision Studio.](./media/analyze-images-vision/vision-resources.png)
+    
 
 1. On the **Select a resource to work with** page, hover your mouse cursor over the resource you created above in the list and then check the box to the left of the resource name, then select **Select as default resource**.
 
     > **Note** : If your resource is not listed, you may need to **Refresh** the page.
 
-    ![The Select a resource to work with dialog is displayed with the cog-ms-learn-vision-SUFFIX Cognitive Services resource highlighted and checked. The Select as default resource button is highlighted.](./media/analyze-images-vision/default-resource.png)
 
 1. Close the settings page by selecting the "x" at the top right of the screen.
 
@@ -55,15 +54,15 @@ Let's look at the image captioning functionality of Azure AI Vision. Image capti
 
 1. On the **Getting started with Vision** landing page, select the **Image analysis** tab and then select the **Add captions to images** tile.
 
-    ![On the Vision Studio home page, the Image analysis tab is selected and highlighted. The Add captions to images tile is highlighted.](./media/analyze-images-vision/add-captions.png)
+
 
 1. Under the **Try It Out** subheading, acknowledge the resource usage policy by reading and checking the box.  
 
 1. Select [**https://aka.ms/mslearn-images-for-analysis**](https://aka.ms/mslearn-images-for-analysis) to download **image-analysis.zip**. Open the folder on your computer and locate the file named **store-camera-1.jpg**; which contains the following image:
 
-    ![An image of a parent using a cellphone camera to take a picture of a child in in a store](./media/analyze-images-vision/store-camera-1.jpg)
+   
 
-1. Upload the **store-camera-1.jpg** image by dragging it to the **Drag and drop files here** box, or by browsing to it on your file system.
+1. Upload the **store-camera-1.jpg** image by dragging it to the **Drag and drop files here** box, or by browsing it on your file system.
 
 1. Observe the generated caption text, visible in the **Detected attributes** panel to the right of the image.
 
@@ -75,13 +74,13 @@ Let's look at the image captioning functionality of Azure AI Vision. Image capti
 
 1. Hover over one of the captions in the **Detected** attributes list and observe what happens within the image.
 
-    ![The image and its captions are displayed.](./media/analyze-images-vision/dense-captioning.png)
+    
 
     Move your mouse cursor over the other captions in the list, and notice how the bounding box shifts in the image to highlight the portion of the image used to generate the caption.
 
 ## Tagging images
 
-The next feature you will try is the **Extract Tags** functionality. Extract tags is based on thousands of recognizable objects, including living beings, scenery, and actions.
+The next feature you will try is the **Extract Tags** functionality. Extract tags are based on thousands of recognizable objects, including living beings, scenery, and actions.
 
 1. Return to the home page of Vision Studio, then select the **Extract common tags from images** tile under the **Image analysis** tab.
 
@@ -89,13 +88,13 @@ The next feature you will try is the **Extract Tags** functionality. Extract tag
 
 3. Open the folder containing the images you downloaded and locate the file named **store-image-2.jpg**, which looks like this:
 
-    ![An image of person with a shopping basket in a supermarket](./media/analyze-images-vision/store-camera-2.jpg)
+    
 
 4. Upload the **store-camera-2.jpg** file.
 
 5. Review the list of tags extracted from the image and the confidence score for each in the detected attributes panel. Here the confidence score is the likelihood that the text for the detected attribute describes what is actually in the image. Notice in the list of tags that it includes not only objects, but actions, such as *shopping*, *selling*, and *standing*.
 
-    ![A screenshot of the detect attributes panel in the Vision Studio with text and confidence scores displayed next to the original image.](./media/analyze-images-vision/detect-attributes.png)
+    
 
 ## Object detection
 
@@ -107,7 +106,7 @@ In this task, you use the **Object detection** feature of Image Analysis. Object
 
 1. Open the folder containing the images you downloaded and locate the file named **store-camera-3.jpg**, which looks like this:
 
-    ![An image of person with a shopping cart](./media/analyze-images-vision/store-camera-3.jpg)
+  
 
 1. Upload the **store-camera-3.jpg** file.
 
