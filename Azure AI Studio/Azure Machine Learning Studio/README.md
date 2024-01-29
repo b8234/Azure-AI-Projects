@@ -115,10 +115,10 @@ Automated machine learning enables you to try multiple algorithms and parameters
 
 ## Review the best model
 
-When the automated machine learning job has completed, you can review the best model it trained.
+When the automated machine learning job has been completed, you can review the best model it trained.
 
 1. On the **Overview** tab of the automated machine learning job, note the best model summary.
-    ![Screenshot of the best model summary of the automated machine learning job with a box around the algorithm name.](./media/use-automated-machine-learning/complete-run.png)
+    
 
     > **Note**
     > You may see a message under the status "Warning: User specified exit score reached...". This is an expected message. Please continue to the next step.
@@ -144,7 +144,7 @@ When the automated machine learning job has completed, you can review the best m
 
 Now you can test your deployed service.
 
-1. In Azure Machine Learning studio, on the left hand menu, select **Endpoints** and open the **predict-rentals** real-time endpoint.
+1. In Azure Machine Learning Studio, on the left-hand menu, select **Endpoints** and open the **predict-rentals** real-time endpoint.
 
 1. On the **predict-rentals** real-time endpoint page view the **Test** tab.
 
@@ -201,4 +201,4 @@ The web service you created is hosted in an *Azure Container Instance*. If you d
 To delete your workspace:
 
 1. In the [Azure portal](https://portal.azure.com?azure-portal=true), in the **Resource groups** page, open the resource group you specified when creating your Azure Machine Learning workspace.
-2. Click **Delete resource group**, type the resource group name to confirm you want to delete it, and select **Delete**.
+2. Click **Delete resource group**, type the resource group name to confirm you want to delete it and select **Delete**.
