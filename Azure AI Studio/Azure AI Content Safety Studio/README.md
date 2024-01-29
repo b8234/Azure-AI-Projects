@@ -14,13 +14,9 @@ The Content Safety Studio enables you to explore how text and image content can 
 
 ## Navigate the Content Safety Studio 
 
-![Screenshot of the content safety studio landing page.](./media/content-safety/content-safety-getting-started.png)
-
 1. Open the [Content Safety Studio](https://contentsafety.cognitive.azure.com?azure-portal=true). If you are not logged in, you will need to sign in. Select **Sign In** on the top right of the screen. Use the email and password associated with your Azure subscription to sign in. 
 
 1. The Content Safety Studio is set up like many other studios for Azure AI services. On the menu at the top of the screen, click on the icon on the left of *Azure AI*. You will see a drop-down list of other studios designed for development with Azure AI services. You can click on the icon again to hide the list.
-
-![A screenshot of the Content Safety Studio's menu with a toggle selection open to switch to other studios.](./media/content-safety/studio-toggle-icon.png)  
 
 ## Associate a resource with the studio 
 
@@ -28,14 +24,12 @@ Before using the studio, you need to associate an Azure AI services resource wit
 
 1. On the top right of the screen, click on the **Settings** icon. 
 
-![A screenshot of the settings icon on the top right of the screen, next to the bell, question mark, and smile icons.](./media/content-safety/settings-toggle.png)
 
 1. On the **Settings** page, you will see a *Directory* tab and *Resource* tab. On the *Resource* tab, select **Create a new resource**. This takes you to a page to create a resource in the Azure Portal.
 
 > **Note**
 > The *Directory* tab allows users to select different directories from which to create resources. You do not need to change its settings unless you wish to use a different directory. 
 
-![Screenshot of where to select create a new resource from the Content Safety Studio's settings page.](./media/content-safety/create-new-resource-from-studio.png)
 
 1. On the *Create Content Safety* page in the [Azure Portal](https://portal.azure.com?auzre-portal=true), you need to configure several details to create your resource. Configure it with the following settings:
     - **Subscription**: *Your Azure subscription*.
