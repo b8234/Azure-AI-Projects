@@ -41,7 +41,7 @@ python script_name.py
 ```
 
 ## Example Output
-The script outputs the classification results for each image in the 'test-images' directory, showing the predicted label and its probability.
+Example output is in the Example Output folder.
 
 ## Learning Outcomes
 - Gained experience in using Azure Cognitive Services for custom image classification.
