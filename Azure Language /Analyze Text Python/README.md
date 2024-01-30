@@ -48,6 +48,6 @@ python script_name.py
 - Developed skills in creating cloud-based AI solutions that are scalable and secure.
 
 ## Acknowledgments
-This project is inspired by exercises in the [Microsoft AI MS Learn series]([link_to_the_relevant_MS_Learn_module](https://learn.microsoft.com/en-us/training/)https://learn.microsoft.com/en-us/training/).
+This project is inspired by exercises in the [Microsoft AI MS Learn series]([[link_to_the_relevant_MS_Learn_module](https://learn.microsoft.com/en-us/training/)https://learn.microsoft.com/en-us/training/]).
 
 
