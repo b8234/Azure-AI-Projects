@@ -48,4 +48,4 @@ The script outputs custom entities recognized in each text file, including the e
 - Developed a deeper understanding of applying AI for text analytics in real-world scenarios.
 
 ## Acknowledgments
-This project was inspired by the exercises in the [Microsoft AI MS Learn series](link_to_the_relevant_MS_Learn_module).
+This project was inspired by the exercises in the [Microsoft AI MS Learn series](https://learn.microsoft.com/en-us/training/).
