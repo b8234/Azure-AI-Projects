@@ -40,7 +40,7 @@ python script_name.py
 ```
 
 ## Example Output
-The script outputs the status of the image upload, tagging, and model training process, eventually indicating the completion of the model training.
+Example output is in the Example Output folder.
 
 ## Learning Outcomes
 - Gained experience in using Azure Cognitive Services for custom model training.
