@@ -48,4 +48,4 @@ Example output is in the Output folder.
 - Enhanced understanding of applying AI in the context of document classification and content analysis.
 
 ## Acknowledgments
-This project is inspired by the exercises in the [Microsoft AI MS Learn series](link_to_the_relevant_MS_Learn_module).
+This project is inspired by the exercises in the [Microsoft AI MS Learn series](https://learn.microsoft.com/en-us/training/).
