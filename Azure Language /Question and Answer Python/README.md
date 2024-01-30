@@ -38,10 +38,10 @@ Run the script and input your question when prompted:
 ```
 python script_name.py
 ```
-The script will provide answers based on the Azure AI's Question Answering service.
+The script will provide answers based on Azure AI's Question Answering service.
 
 ## Example Output
-For each query, the script outputs the most relevant answer, its confidence score, and the source of the information.
+Example output is in the Output folder.
 
 ## Learning Outcomes
 - Developed skills in integrating Azure AI services for natural language processing tasks.
