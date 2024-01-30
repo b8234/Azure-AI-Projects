@@ -24,7 +24,7 @@ pip install azure-ai-textanalytics python-dotenv
 
 ## Configuration
 - Set up Azure Cognitive Services in the Azure portal.
-- Create `.env` file with Azure service credentials:
+- Create a `.env` file with Azure service credentials:
   ```
   COG_SERVICE_KEY=your_key
   COG_SERVICE_ENDPOINT=your_endpoint
@@ -41,13 +41,13 @@ python script_name.py
 - The script design allows for easy adaptation and integration into larger cloud solutions.
 
 ## Example Output
-- Example output is in folder []
+- Example output is in the Output folder
 
 ## Learning Outcomes
-- Gained deeper understanding of Azure AI services and their application in text analytics.
+- Gained a deeper understanding of Azure AI services and their application in text analytics.
 - Developed skills in creating cloud-based AI solutions that are scalable and secure.
 
 ## Acknowledgments
-This project is inspired by exercises in the [Microsoft AI MS Learn series]([[link_to_the_relevant_MS_Learn_module](https://learn.microsoft.com/en-us/training/)https://learn.microsoft.com/en-us/training/]).
+This project is inspired by exercises in the [Microsoft AI MS Learn series](https://learn.microsoft.com/en-us/training/).
 
 
