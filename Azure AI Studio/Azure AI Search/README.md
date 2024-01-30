@@ -239,7 +239,7 @@ Let's see the power of the knowledge store in action. When you ran the *Import d
 
    
 
-1. Select any of the *.jpg* files. Select **Edit** to see the image stored from the document. Notice how all the images from the documents are stored in this manner.
+1. Select any of the *.jpg* files. Select **Edit** to see the image stored in the document. Notice how all the images from the documents are stored in this manner.
 
    
 1. Select the storage blob breadcrumb at the top left of the screen to return to the Storage account *Containers*.
@@ -250,4 +250,4 @@ Let's see the power of the knowledge store in action. When you ran the *Import d
 
 ## Learn more
 
-This simple search index only some of the capabilities of the Azure AI Search service. To learn more about what you can do with this service, see the [Azure AI Search service page](/azure/search/search-what-is-azure-search).
+This simple search index only some of the capabilities of the Azure AI Search service. To learn more about what you can do with this service, see the [Azure AI Search service page](https://azure.microsoft.com/en-us/products/ai-services/ai-search).
