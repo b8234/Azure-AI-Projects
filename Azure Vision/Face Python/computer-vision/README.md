@@ -40,8 +40,7 @@ python remote_image_tagging_script.py
 ```
 
 ## Example Output
-- The local image tagging script outputs tags for the provided local image, along with confidence scores.
-- The remote image tagging script displays tags for the specified remote image in a similar manner.
+Example output is in the Example Output folder.
 
 ## Learning Outcomes
 - Gained experience in using Azure AI services for analyzing both local and remote images.
