@@ -39,7 +39,7 @@ python script_name.py
 The script will analyze the entered text and provide insights based on the Azure AI Language Service's analysis.
 
 ## Example Output
-The script will output the top intent recognized in the text, along with any entities identified and their confidence scores. Additionally, it will demonstrate how this information can be used to determine actions or responses.
+Example output is in the Output folder
 
 ## Learning Outcomes
 - Acquired practical experience with Azure Language Services in a conversational AI context.
@@ -47,4 +47,4 @@ The script will output the top intent recognized in the text, along with any ent
 - Developed an understanding of applying AI for real-time language analysis and intent recognition.
 
 ## Acknowledgments
-This project is inspired by exercises in the [Microsoft AI MS Learn series](link_to_the_relevant_MS_Learn_module).
+This project is inspired by exercises in the [Microsoft AI MS Learn series](https://learn.microsoft.com/en-us/training/).
