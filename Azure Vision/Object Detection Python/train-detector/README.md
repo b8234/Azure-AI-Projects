@@ -40,7 +40,7 @@ python script_name.py
 ```
 
 ## Example Output
-The script will indicate the status of the image upload process, including any failures or issues in tagging.
+Example output is in the Example Output folder.
 
 ## Learning Outcomes
 - Gained experience in preparing datasets for custom vision model training.
