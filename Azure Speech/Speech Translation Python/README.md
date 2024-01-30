@@ -46,4 +46,4 @@ Example output is in the Example Output folder.
 - Enhanced understanding of applying conversational AI in a global context.
 
 ## Acknowledgments
-This project was inspired by exercises in the [Microsoft AI MS Learn series](link_to_the_relevant_MS_Learn_module).
+This project was inspired by exercises in the [Microsoft AI MS Learn series](https://learn.microsoft.com/en-us/training/).
