@@ -48,5 +48,5 @@ Example output is in the Example Output folder.
 - Enhanced understanding of the practical applications of AI in image processing and analysis.
 
 ## Acknowledgments
-These projects were inspired by exercises in the [Microsoft AI MS Learn series](link_to_the_relevant_MS_Learn_module).
+These projects were inspired by exercises in the [Microsoft AI MS Learn series](https://learn.microsoft.com/en-us/training/)
 
