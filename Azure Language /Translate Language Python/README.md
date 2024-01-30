@@ -11,7 +11,7 @@ This project is part of the Microsoft AI MS Learn series. It uses Azure AI's Tex
 ## Technologies Used
 - Azure AI Translation Text Service for real-time text translation.
 - Python for creating an interactive translation application.
-- Azure SDK to facilitate the communication with Azure Text Translation services.
+- Azure SDK to facilitate communication with Azure Text Translation services.
 
 ## Setup and Installation
 To set up this project:
@@ -38,7 +38,7 @@ python script_name.py
 ```
 
 ## Example Output
-For each input text, the script provides the translated text in the chosen language along with the detected source language.
+Example output is in the Example Output folder.
 
 ## Learning Outcomes
 - Gained practical experience in using Azure AI services for language translation.
