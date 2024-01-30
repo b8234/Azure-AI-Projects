@@ -47,5 +47,5 @@ Example output is in the Output folder.
 - Enhanced understanding of Computer Vision concepts and their practical applications.
 
 ## Acknowledgments
-This project was developed as part of the exercises in the [Microsoft AI MS Learn series](link_to_the_relevant_MS_Learn_module).
+This project was developed as part of the exercises in the [Microsoft AI MS Learn series](https://learn.microsoft.com/en-us/training/).
 
