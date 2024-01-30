@@ -49,5 +49,5 @@ Example output is in the Output folder.
 - Enhanced understanding of developing AI solutions that interact and respond to user inputs.
 
 ## Acknowledgments
-This project was inspired by the exercises in the [Microsoft AI MS Learn series](link_to_the_relevant_MS_Learn_module).
+This project was inspired by the exercises in the [Microsoft AI MS Learn series](https://learn.microsoft.com/en-us/training/).
 
