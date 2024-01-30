@@ -42,7 +42,7 @@ python script_name.py
 ```
 
 ## Example Output
-The script processes the image, detects objects, and generates a new image with bounding boxes and labels around each detected object. The output is saved as 'output.jpg'.
+Example output is in the Example Output folder.
 
 ## Learning Outcomes
 - Gained experience in using Azure AI services for advanced object detection.
