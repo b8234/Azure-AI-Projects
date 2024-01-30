@@ -40,8 +40,7 @@ python remote_ocr_script.py
 ```
 
 ## Example Output
-- The local OCR script will output detected text from the local image file.
-- The remote OCR script will similarly display text extracted from the remote image.
+Example output is in the Example Output folder.
 
 ## Learning Outcomes
 - Gained experience in using Azure Cognitive Services for OCR tasks.
