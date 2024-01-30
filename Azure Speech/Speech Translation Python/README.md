@@ -38,7 +38,7 @@ python script_name.py
 ```
 
 ## Example Output
-The script listens to spoken English and outputs the translation in the selected language both as text and synthesized speech.
+Example output is in the Example Output folder.
 
 ## Learning Outcomes
 - Gained practical skills in implementing real-time speech translation using Azure Speech services.
