@@ -40,7 +40,7 @@ python script_name.py
 ```
 
 ## Example Output
-The script will output the classification for each document in the directory, including the category and confidence score.
+Example output is in the Output folder.
 
 ## Learning Outcomes
 - Gained experience in using Azure AI services for advanced text classification tasks.
