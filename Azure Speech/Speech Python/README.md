@@ -38,7 +38,7 @@ python script_name.py
 ```
 
 ## Example Output
-The script listens for a spoken command and, upon recognizing "What time is it?", responds with the current time in spoken language.
+Example output is in the Example Output folder.
 
 ## Learning Outcomes
 - Gained practical experience with Azure Speech services, including both speech-to-text and text-to-speech capabilities.
