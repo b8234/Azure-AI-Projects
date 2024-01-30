@@ -39,7 +39,7 @@ python script_name.py [optional: path_to_image]
 Replace `script_name.py` with the name of your script, and provide an image path if needed.
 
 ## Example Output
-The script outputs the analysis of the provided image, including categories, a description, and tags identified by Azure's Computer Vision.
+Example output is in the Output folder.
 
 ## Learning Outcomes
 - Gained experience in using Azure Cognitive Services for advanced image processing.
