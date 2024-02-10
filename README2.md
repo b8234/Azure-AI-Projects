@@ -18,7 +18,7 @@ Explore projects leveraging Azure Language Service:
 - [Custom Entity Recognition with Python README](https://github.com/b8234/Azure-AI-Projects/blob/main/Azure%20Language%20/Custom%20Entity%20Recognition%20Python/custom-entities/README.md): Extracts custom entities from text data stored in files within a specified folder using the Azure Text Analytics service.
 - [Language Python README](https://github.com/b8234/Azure-AI-Projects/blob/main/Azure%20Language%20/Language%20Python/README.md): Analyzes user input and performs actions based on detected intents and entities using the Azure Conversation Analysis service.
 - [Question and Answering with Python README](https://github.com/b8234/Azure-AI-Projects/blob/main/Azure%20Language%20/Question%20and%20Answer%20Python/README.md): Responds to user questions based on the provided knowledge base using the Azure Question Answering service.
-- [Text Classification with Python README](https://github.com/b8234/Azure-AI-Projects/blob/main/Azure%20Language/Text%20Classification%20Python/classify-text/README.md): Classifies the content of text documents based on a provided model using the Azure Text Analytics service.
+- [Text Classification with Python README](https://github.com/b8234/Azure-AI-Projects/blob/main/Azure%20Language%20/Text%20Classification%20Python/classify-text/README.md): Classifies the content of text documents based on a provided model using the Azure Text Analytics service.
 - [Translate Language README](https://github.com/b8234/Azure-AI-Projects/blob/main/Azure%20Language/Translate%20Language%20Python/README.md): Translates text input into a target language using the Azure Translator service.
 
 ## Generative AI with Microsoft CoPilot
