@@ -14,7 +14,7 @@ Explore projects focusing on generative AI and prompt engineering:
 ## Azure Language with Python
 Explore projects leveraging Azure Language Service:
 
-- [Analyze Text with Python README](https://github.com/b8234/Azure-AI-Projects/blob/main/Azure%20Language/Analyze%20Text%20Python/README.md): Utilizes the Azure Text Analytics service to analyze text data from files within a specified folder.
+- [Analyze Text with Python README](https://github.com/b8234/Azure-AI-Projects/blob/main/Azure%20Language%20/Analyze%20Text%20Python/README.md): Utilizes the Azure Text Analytics service to analyze text data from files within a specified folder.
 - [Custom Entity Recognition with Python README](https://github.com/b8234/Azure-AI-Projects/blob/main/Azure%20Language/Custom%20Entity%20Recognition%20Python/custom-entities/README.md): Extracts custom entities from text data stored in files within a specified folder using the Azure Text Analytics service.
 - [Language Python README](https://github.com/b8234/Azure-AI-Projects/blob/main/Azure%20Language/Language%20Python/README.md): Analyzes user input and performs actions based on detected intents and entities using the Azure Conversation Analysis service.
 - [Question and Answering with Python README](https://github.com/b8234/Azure-AI-Projects/blob/main/Azure%20Language/Question%20and%20Answer%20Python/README.md): Responds to user questions based on the provided knowledge base using the Azure Question Answering service.
