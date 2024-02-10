@@ -51,6 +51,8 @@ The objective of this exercise is to learn to effectively interact with and util
 
 This exercise aims to familiarize you with the capabilities and limitations of ChatGPT, covering fundamental AI concepts, interactive learning, and practical applications in coding. By completing this exercise, you'll gain insights into how generative AI can be applied in educational and development contexts, preparing you for more advanced uses of AI technologies.
 
+## Live Examples and Reflections
+For live examples of the exercise tasks, please refer to [Responses.md](https://github.com/b8234/Azure-AI-Projects/blob/main/Generative%20AI%20and%20Prompt%20Engineering/Prompt%20Engineering%20with%20ChatGPT/Responses.md). Additionally, for reflections on the exercise and perspectives on ChatGPT's performance, see [Reflections.md](https://github.com/b8234/Azure-AI-Projects/blob/main/Generative%20AI%20and%20Prompt%20Engineering/Prompt%20Engineering%20with%20ChatGPT/My%20Reflections.md).
 
 ## Contributing
 
