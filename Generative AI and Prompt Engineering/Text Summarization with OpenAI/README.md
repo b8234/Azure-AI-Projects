@@ -38,7 +38,7 @@ These instructions will get you up and running with the project on your local ma
 
 1. **Prepare Your Text File:**
 
-   Create a text file named [`sample-text.txt`](https://github.com/b8234/Azure-AI-Projects/blob/main/Generative%20AI%20and%20Prompt%20Engineering/Text%20Summariazation%20OpenAI/sample-text.txt) in the root directory and insert the text you wish to summarize.
+   Create a text file named [`sample-text.txt`](https://github.com/b8234/Azure-AI-Projects/blob/main/Generative%20AI%20and%20Prompt%20Engineering/Text%20Summarization%20with%20OpenAI/sample-text.txt) in the root directory and insert the text you wish to summarize.
 
 2. **Run the Script:**
 
@@ -48,7 +48,7 @@ These instructions will get you up and running with the project on your local ma
    python path_to_script.py
    ```
 
-   Replace [`gpt_summarizer.py`](https://github.com/b8234/Azure-AI-Projects/blob/main/Generative%20AI%20and%20Prompt%20Engineering/Text%20Summariazation%20OpenAI/gpt_summarizer.py) with the path to the Python script provided above if you've named it differently or stored it in a specific directory.
+   Replace [`gpt_summarizer.py`](https://github.com/b8234/Azure-AI-Projects/blob/main/Generative%20AI%20and%20Prompt%20Engineering/Text%20Summarization%20with%20OpenAI/gpt_summarizer.py) with the path to the Python script provided above if you've named it differently or stored it in a specific directory.
 
 ### Example
 
