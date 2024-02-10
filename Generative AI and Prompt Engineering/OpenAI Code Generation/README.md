@@ -22,6 +22,8 @@ Enhance your coding projects with ChatGPT's powerful capabilities. This guide wa
 3. **Simplify Code**: Ask ChatGPT to simplify complex code snippets for enhanced understanding or efficiency.
 4. **Improve Readability**: Enhance the maintainability of your code by asking for comments or cleaner refactoring.
 
+**View Sample Output**: [Here](https://github.com/b8234/Azure-AI-Projects/tree/main/Generative%20AI%20and%20Prompt%20Engineering/OpenAI%20Code%20Generation/ChatGPT%20Output)
+
 ### **Important: Before Running `code_debugger.py`**
 
 **Uncomment All Files in the Sample Code Folder**: It's critical to **uncomment all files** within the Sample Code folder before attempting to run the `code_debugger.py` script. This step ensures that the script can accurately process and debug the code as intended.
