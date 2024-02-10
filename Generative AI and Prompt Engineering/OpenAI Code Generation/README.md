@@ -31,7 +31,7 @@ Failing to uncomment the code might result in the script not functioning correct
 ### Step 2: Debugging Code with ChatGPT
 
 1. **Setup**: Ensure the `openai` and `python-dotenv` packages are installed. Securely store your OpenAI API key in a `.env` file.
-2. **Code Debugger Script Usage (`code_debugger.py`)**: Configure the `folder_path` in the script to point to your directory with the sample code. Remember to uncomment all code for functionality.
+2. **Code Debugger Script Usage (`code_debugger.py`)**: Configure the `folder_path` in the script to point to your directory with the sample code. Remember to uncomment all code for functionality. All sample code for project to uncomment is here [Sample Code] (https://github.com/b8234/Azure-AI-Projects/tree/main/Generative%20AI%20and%20Prompt%20Engineering/OpenAI%20Code%20Generation/Sample%20Code).
 3. **Execution**: Execute the script, enter the filenames to debug when prompted, and observe as ChatGPT corrects the errors, displaying the fixed code.
 
 ### Sample Code Debugging
