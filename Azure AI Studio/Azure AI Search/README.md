@@ -251,3 +251,10 @@ Let's see the power of the knowledge store in action. When you ran the *Import d
 ## Learn more
 
 This simple search index only some of the capabilities of the Azure AI Search service. To learn more about what you can do with this service, see the [Azure AI Search service page](https://azure.microsoft.com/en-us/products/ai-services/ai-search).
+
+## Acknowledgments
+This project is inspired by exercises in the [Microsoft AI MS Learn series](https://learn.microsoft.com/en-us/training/).
+
+## Contact
+
+If you have any questions or feedback, feel free to [open an issue](https://github.com/b8234/Azure-AI-Projects/issues/new). I welcome your input and suggestions to improve this repository further.
