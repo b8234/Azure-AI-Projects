@@ -5,7 +5,7 @@ Welcome to the Azure AI Portfolio! This repository contains a collection of proj
 ## Generative AI and Prompt Engineering Portfolio
 Explore projects focusing on generative AI and prompt engineering:
 
-- [Text Summarization README](https://github.com/b8234/Azure-AI-Projects/blob/main/Generative%20AI%20and%20Prompt%20Engineering/Text%20Summariazation%20OpenAI/README.md): Illustrates how to integrate the OpenAI API to generate fictional planet names and descriptions using GPT-3.5 Turbo.
+- [Text Summarization README](https://github.com/b8234/Azure-AI-Projects/blob/main/Generative%20AI%20and%20Prompt%20Engineering/Text%20Summarization%20with%20OpenAI/README.md): Illustrates how to integrate the OpenAI API to generate fictional planet names and descriptions using GPT-3.5 Turbo.
 - [Prompt Engineering with Python README](https://github.com/b8234/Azure-AI-Projects/blob/main/Generative%20AI%20and%20Prompt%20Engineering/Prompt%20Engineering%20with%20Python/README.md): Showcases generating fictional planet names and descriptions using OpenAI's GPT-3.5 Turbo, highlighting API integration for creative content creation within a Python project.
 - [Prompt Engineer with ChatGPT README](https://github.com/b8234/Azure-AI-Projects/blob/main/Generative%20AI%20and%20Prompt%20Engineering/Prompt%20Engineering%20with%20ChatGPT/README.md): Explores ChatGPT's capabilities in tasks ranging from conversational responses to basic programming assistance.
 - [OpenAI Code Generation README](https://github.com/b8234/Azure-AI-Projects/blob/main/Generative%20AI%20and%20Prompt%20Engineering/OpenAI%20Code%20Generation/README.md): Covers integration with ChatGPT to provide automated code correction functionalities.
