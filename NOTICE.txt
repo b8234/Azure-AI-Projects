@@ -1,0 +1,16 @@
+NOTICE: Azure AI Portfolio
+
+Copyright (c) 2024 b8234
+
+This project includes software developed at b8234's GitHub (https://github.com/b8234) and incorporates materials and exercises from Microsoft Learn (https://docs.microsoft.com/en-us/learn/).
+
+The projects and exercises adapted from Microsoft Learn are used under the terms of their respective licenses and are provided for educational purposes. The original Microsoft Learn content can be found at the provided link, and its use is subject to the terms and conditions outlined by Microsoft.
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Additional Acknowledgments:
+---------------------------
+- The code exercises in the Generative AI and Prompt Engineering folder are personal projects, and all remaining projects in the other folders are sourced from the Microsoft Learn AI series. The use of these materials is gratefully acknowledged, and they are provided here for educational enhancement and as a demonstration of practical applications.
+
+End of Notices
+---------------
