@@ -47,5 +47,8 @@ Example output is in the Output folder.
 - Enhanced understanding of Computer Vision concepts and their practical applications.
 
 ## Acknowledgments
-This project was developed as part of the exercises in the [Microsoft AI MS Learn series](https://learn.microsoft.com/en-us/training/).
+This project is inspired by exercises in the [Microsoft AI MS Learn series](https://learn.microsoft.com/en-us/training/).
 
+## Contact
+
+If you have any questions or feedback, feel free to [open an issue](https://github.com/b8234/Azure-AI-Projects/issues/new). I welcome your input and suggestions to improve this repository further.
