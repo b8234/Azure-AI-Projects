@@ -48,5 +48,8 @@ Example output is in the Example Output folder.
 - Enhanced understanding of integrating Azure AI services with Python for OCR applications.
 
 ## Acknowledgments
-These projects are practical applications inspired by the [Azure Cognitive Services Computer Vision documentation](https://docs.microsoft.com/azure/cognitive-services/computer-vision/).
+This project is inspired by exercises in the [Microsoft AI MS Learn series](https://learn.microsoft.com/en-us/training/).
 
+## Contact
+
+If you have any questions or feedback, feel free to [open an issue](https://github.com/b8234/Azure-AI-Projects/issues/new). I welcome your input and suggestions to improve this repository further.
