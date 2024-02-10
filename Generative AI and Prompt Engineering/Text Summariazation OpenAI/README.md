@@ -48,7 +48,7 @@ These instructions will get you up and running with the project on your local ma
    python path_to_script.py
    ```
 
-   Replace `path_to_script.py` with the path to the Python script provided above if you've named it differently or stored it in a specific directory.
+   Replace [`gpt_summarizer.py`](https://github.com/b8234/Azure-AI-Projects/blob/main/Generative%20AI%20and%20Prompt%20Engineering/Text%20Summariazation%20OpenAI/gpt_summarizer.py) with the path to the Python script provided above if you've named it differently or stored it in a specific directory.
 
 ### Example
 
