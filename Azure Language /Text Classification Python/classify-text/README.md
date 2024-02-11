@@ -17,7 +17,7 @@ This project is part of the Microsoft AI MS Learn series. It uses Azure AI Text 
 To set up and run this project:
 
 ```
-git clone <repository-url>
+git clone https://github.com/b8234/Azure-AI-Projects.git
 cd <project-directory>
 pip install azure-ai-textanalytics python-dotenv
 ```
