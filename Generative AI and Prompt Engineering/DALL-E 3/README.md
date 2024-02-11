@@ -30,13 +30,13 @@ Before running this script, ensure you have the following:
    ```bash
    pip3 install openai requests Pillow python-dotenv
    ```
-   Or install the required dependencies, run the following command:
-
+   Or install the required dependencies via requirements, run the following command:
+   
    ```bash
    pip3 install -r requirements.txt
    ```
 
-3. **Set Up Environment Variables**:
+4. **Set Up Environment Variables**:
 
    Create a `.env` file in the root directory of the project and add your OpenAI API key:
 
