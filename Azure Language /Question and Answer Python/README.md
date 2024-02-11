@@ -46,7 +46,7 @@ pip3 install -r requirements.txt
 Run the script and input your question when prompted:
 
 ```
-python3 script_name.py
+python3 qna-app.py
 ```
 The script will provide answers based on Azure AI's Question Answering service.
 
