@@ -26,12 +26,12 @@ Enhance your coding projects with ChatGPT's powerful capabilities. This guide wa
 2. **Install the required Python packages:**
 
    ```bash
-   pip install openai python-dotenv
+   pip3 install openai python-dotenv
    ```
    Or install the required dependencies, run the following command:
 
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 3. **Set up your environment variables:**
