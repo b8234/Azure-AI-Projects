@@ -24,7 +24,7 @@ cd Azure-AI-Projects/Azure\ Vision/Optical\ Character\ Recognition\ Python/read-
 Run command to install packages:
 
 ```
-pip3 install azure-cognitiveservices-vision-computervision Pillow
+pip3 install azure-cognitiveservices-vision-computervision msrest python-dotenv Pillow
 ```
 
 Or install the required dependencies via requirements.txt, run the following command:
