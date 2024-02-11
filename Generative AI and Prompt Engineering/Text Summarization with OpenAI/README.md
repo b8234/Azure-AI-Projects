@@ -26,11 +26,11 @@ These instructions will get you up and running with the project on your local ma
    pip install openai python-dotenv
    ```
 
-Or install the required dependencies, run the following command:
+   Or install the required dependencies, run the following command:
 
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. **Set up your environment variables:**
 
