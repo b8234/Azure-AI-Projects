@@ -19,15 +19,14 @@ To set up and run this project:
 ```
 git clone https://github.com/b8234/Azure-AI-Projects.git
 cd Azure-AI-Projects/Azure\ Language/Text\ Classification\ Python/classify-text
-pip install azure-ai-textanalytics python-dotenv
 ```
 
 **Install Dependencies**:
 
 ```bash
-pip3 install python-dotenv azure-ai-textanalytics azure-core
+pip3 install python-dotenv azure-core azure-ai-textanalytics
 ```
-To install the required dependencies, run the following command:
+Or install the required dependencies, run the following command:
 
 ```bash
 pip3 install -r requirements.txt
@@ -47,7 +46,7 @@ pip3 install -r requirements.txt
 Run the script and it will automatically classify documents in the 'articles' directory:
 
 ```
-python script_name.py
+python3 classify-text.py
 ```
 
 ## Example Output
