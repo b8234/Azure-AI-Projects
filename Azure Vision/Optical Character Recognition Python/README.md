@@ -17,7 +17,7 @@ These projects are a part of the Microsoft AI MS Learn series and contain two Py
 To set up and run these projects:
 
 ```
-git clone <repository-url>
+git clone https://github.com/b8234/Azure-AI-Projects.git
 cd <project-directory>
 pip install azure-cognitiveservices-vision-computervision Pillow
 ```
