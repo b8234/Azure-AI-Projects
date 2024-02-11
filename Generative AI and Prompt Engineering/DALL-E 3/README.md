@@ -31,6 +31,11 @@ Before running this script, ensure you have the following:
    ```bash
    pip install openai requests Pillow python-dotenv
    ```
+   To install the required dependencies, run the following command:
+
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. **Set Up Environment Variables**:
 
