@@ -1,0 +1,3 @@
+azure-cognitiveservices-vision-customvision
+msrest
+python-dotenv
