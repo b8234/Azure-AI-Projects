@@ -8,12 +8,12 @@ This Python script utilizes the GPT-3.5 Turbo model from OpenAI to generate uniq
 2. Install the required Python packages using pip:
 
 ```
-pip install openai python-dotenv
+pip3 install openai python-dotenv
 ```
   Or install the required dependencies, run the following command:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 3. Create a `.env` file in the project directory and add your OpenAI API key:
@@ -25,7 +25,7 @@ OPENAI_API_KEY=your_api_key_here
 4. Run the script:
 
 ```
-python planet_generator.py
+python3 planet_generator.py
 ```
 
 ## Description
