@@ -18,7 +18,7 @@ To set up this project:
 
 ```
 git clone https://github.com/b8234/Azure-AI-Projects.git
-cd Azure-AI-Projects/Azure\ Speech/Speech\ Python
+cd Azure-AI-Projects/Azure\ Speech/Speech\ Python/speaking-clock
 pip install azure-cognitiveservices-speech playsound
 ```
 
