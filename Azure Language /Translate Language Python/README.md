@@ -22,6 +22,17 @@ cd Azure-AI-Projects/Azure\ Language/Translate\ Language\ Python/translate-text
 pip install azure-ai-translation-text
 ```
 
+**Install Dependencies**:
+
+```bash
+pip3 install python-dotenv azure-ai-textanalytics azure-core
+```
+To install the required dependencies, run the following command:
+
+```bash
+pip3 install -r requirements.txt
+```
+
 ## Configuration
 - Set up Azure Translation resources in Azure.
 - Add a `.env` file with Azure service credentials:
