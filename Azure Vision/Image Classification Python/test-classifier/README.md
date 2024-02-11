@@ -37,7 +37,7 @@ Ensure Python and necessary packages are installed.
 - Run the script:
 
 ```
-python script_name.py
+python3 test-classifier.py
 ```
 
 ## Example Output
