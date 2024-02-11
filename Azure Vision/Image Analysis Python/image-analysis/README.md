@@ -19,7 +19,7 @@ To set up and run this project:
 ```
 git clone https://github.com/b8234/Azure-AI-Projects.git
 cd Azure-AI-Projects/Azure\ Vision/Image\ Analysis\ Python/image-analysis
-pip install azure-cognitiveservices-vision-computervision python-dotenv pillow
+pip3 install azure-cognitiveservices-vision-computervision python-dotenv pillow
 ```
 
 ## Configuration
@@ -34,9 +34,9 @@ pip install azure-cognitiveservices-vision-computervision python-dotenv pillow
 To run the script:
 
 ```
-python script_name.py [optional: path_to_image]
+python3 image_analysis.py 
 ```
-Replace `script_name.py` with the name of your script, and provide an image path if needed.
+Replace `image_analysis.py` with the name of your script, and provide an image path if needed.
 
 ## Example Output
 Example output is in the Output folder.
