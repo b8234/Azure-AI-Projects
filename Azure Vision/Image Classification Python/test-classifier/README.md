@@ -23,7 +23,7 @@ cd Azure-AI-Projects/Azure\ Vision/Image\ Classification\ Python/test-classifier
 Run command to install packages:
 
 ```
-pip3 install azure-cognitiveservices-vision-computervision python-dotenv pillow
+pip3 install azure-cognitiveservices-vision-customvision msrest python-dotenv
 ```
 
 Or install the required dependencies via requirements.txt, run the following command:
