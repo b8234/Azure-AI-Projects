@@ -19,7 +19,7 @@ To set up and run this project:
 
 ```
 git clone https://github.com/b8234/Azure-AI-Projects.git
-cd <project-directory>
+cd Azure-AI-Projects/Azure\ Vision/Object\ Detection\ Python/test-detector
 pip install azure-cognitiveservices-vision-customvision matplotlib Pillow numpy
 ```
 
