@@ -22,6 +22,17 @@ cd Azure-AI-Projects/Azure\ Language/Language\ Python/clock-client
 pip install azure-ai-language python-dotenv
 ```
 
+**Install Dependencies**:
+
+```bash
+pip3 install python-dotenv azure-ai-textanalytics azure-core
+```
+To install the required dependencies, run the following command:
+
+```bash
+pip3 install -r requirements.txt
+```
+
 ## Configuration
 - Set up Azure Language Service resources in Azure.
 - Create a `.env` file with Azure service credentials:
