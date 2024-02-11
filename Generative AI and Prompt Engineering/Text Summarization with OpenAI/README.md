@@ -23,13 +23,13 @@ These instructions will get you up and running with the project on your local ma
 2. **Install the required Python packages:**
 
    ```bash
-   pip install openai python-dotenv
+   pip3 install openai python-dotenv
    ```
 
    Or install the required dependencies, run the following command:
 
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 3. **Set up your environment variables:**
@@ -51,7 +51,7 @@ These instructions will get you up and running with the project on your local ma
    Execute the script to generate the summary:
 
    ```bash
-   python path_to_script.py
+   python3 path_to_script.py
    ```
 
    Replace [`gpt_summarizer.py`](https://github.com/b8234/Azure-AI-Projects/blob/main/Generative%20AI%20and%20Prompt%20Engineering/Text%20Summarization%20with%20OpenAI/gpt_summarizer.py) with the path to the Python script provided above if you've named it differently or stored it in a specific directory.
