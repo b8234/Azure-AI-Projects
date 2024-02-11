@@ -36,7 +36,7 @@ Ensure Python and necessary packages are installed.
 - Run the script to upload images, tag them, and start the training process:
 
 ```
-python script_name.py
+python3 train-classifier.py
 ```
 
 ## Example Output
