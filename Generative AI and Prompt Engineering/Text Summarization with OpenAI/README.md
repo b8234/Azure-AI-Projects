@@ -16,8 +16,8 @@ These instructions will get you up and running with the project on your local ma
 1. **Clone the repository:**
 
    ```bash
-   git clone https://yourrepositorylink.git
-   cd your-repository-folder
+   git clone 
+   cd Azure-AI-Projects
    ```
 
 2. **Install the required Python packages:**
