@@ -21,8 +21,8 @@ Before running this script, ensure you have the following:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/b8234/test.git
-   cd test
+   git clone https://github.com/b8234/Azure-AI-Projects.git
+   cd Azure-AI-Projects
    ```
 
 2. **Install Dependencies**:
