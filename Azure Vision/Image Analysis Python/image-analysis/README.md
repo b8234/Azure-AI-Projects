@@ -18,7 +18,7 @@ To set up and run this project:
 
 ```
 git clone https://github.com/b8234/Azure-AI-Projects.git
-cd <project-directory>
+cd Azure-AI-Projects/Azure\ Vision/Image\ Analysis\ Python/image-analysis
 pip install azure-cognitiveservices-vision-computervision python-dotenv pillow
 ```
 
