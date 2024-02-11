@@ -17,8 +17,8 @@ These projects are a part of the Microsoft AI MS Learn series. They use Azure Co
 To set up and run these projects:
 
 ```
-git clone <repository-url>
-cd <project-directory>
+git clone https://github.com/b8234/Azure-AI-Projects.git
+cd Azure-AI-Projects
 pip install azure-cognitiveservices-vision-computervision Pillow
 ```
 
