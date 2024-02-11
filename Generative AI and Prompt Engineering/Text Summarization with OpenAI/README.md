@@ -17,7 +17,7 @@ These instructions will get you up and running with the project on your local ma
 
    ```bash
    git clone https://github.com/b8234/Azure-AI-Projects.git
-   cd Azure-AI-Projects
+   cd Azure-AI-Projects/Generative\ AI\ and\ Prompt\ Engineering/Text\ Summarization\ with\ OpenAI
    ```
 
 2. **Install the required Python packages:**
