@@ -22,6 +22,17 @@ cd Azure-AI-Projects/Azure\ Language/Question\ and\ Answer\ Python/qna-app
 pip install azure-ai-language python-dotenv
 ```
 
+**Install Dependencies**:
+
+```bash
+pip3 install python-dotenv azure-ai-textanalytics azure-core
+```
+To install the required dependencies, run the following command:
+
+```bash
+pip3 install -r requirements.txt
+```
+
 ## Configuration
 - Create Azure AI resources (Question Answering service) in Azure.
 - Add a `.env` file with the necessary Azure service details:
