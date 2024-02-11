@@ -10,7 +10,7 @@ This Python script utilizes the GPT-3.5 Turbo model from OpenAI to generate uniq
 ```
 pip3 install openai python-dotenv
 ```
-  Or install the required dependencies, run the following command:
+Or install the required dependencies via requirements, run the following command:
 
 ```bash
 pip3 install -r requirements.txt
