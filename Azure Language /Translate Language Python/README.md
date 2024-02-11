@@ -26,7 +26,7 @@ cd Azure-AI-Projects/Azure\ Language/Translate\ Language\ Python/translate-text
 ```bash
 pip3 install python-dotenv azure-ai-translate
 ```
-Or install the required dependencies, run the following command:
+Or install the required dependencies via requirements, run the following command:
 
 ```bash
 pip3 install -r requirements.txt
