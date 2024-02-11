@@ -19,7 +19,6 @@ To set up this project:
 ```
 git clone https://github.com/b8234/Azure-AI-Projects.git
 cd Azure-AI-Projects/Azure\ Language/Language\ Python/clock-client
-pip install azure-ai-language python-dotenv
 ```
 
 **Install Dependencies**:
@@ -45,7 +44,7 @@ pip3 install -r requirements.txt
 Run the script and enter text when prompted:
 
 ```
-python3 script_name.py
+python3 clock-client.py
 ```
 The script will analyze the entered text and provide insights based on the Azure AI Language Service's analysis.
 
