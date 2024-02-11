@@ -22,7 +22,9 @@ cd Azure-AI-Projects/Azure\ Language/Custom\ Entity\ Recognition\ Python/custom-
 pip install azure-ai-textanalytics python-dotenv
 ```
 
-```bash
+**Install Dependencies**:
+
+   ```bash
    pip3 install python-dotenv azure-ai-textanalytics azure-core
    ```
    To install the required dependencies, run the following command:
