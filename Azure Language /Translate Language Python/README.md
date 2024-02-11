@@ -19,15 +19,14 @@ To set up this project:
 ```
 git clone https://github.com/b8234/Azure-AI-Projects.git
 cd Azure-AI-Projects/Azure\ Language/Translate\ Language\ Python/translate-text
-pip install azure-ai-translation-text
 ```
 
 **Install Dependencies**:
 
 ```bash
-pip3 install python-dotenv azure-ai-textanalytics azure-core
+pip3 install python-dotenv azure-ai-translate
 ```
-To install the required dependencies, run the following command:
+Or install the required dependencies, run the following command:
 
 ```bash
 pip3 install -r requirements.txt
@@ -45,7 +44,7 @@ pip3 install -r requirements.txt
 Run the script and follow the prompts to input text for translation and select a target language:
 
 ```
-python script_name.py
+python3 translate.py
 ```
 
 ## Example Output
