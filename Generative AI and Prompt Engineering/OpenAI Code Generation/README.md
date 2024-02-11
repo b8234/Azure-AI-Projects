@@ -7,11 +7,35 @@ Enhance your coding projects with ChatGPT's powerful capabilities. This guide wa
 ### Prerequisites
 
 - **For Generating Code (Step 1):** A ChatGPT account is required.
-- **For Debugging Code (Step 2):** 
-    - Access to the ChatGPT API and a valid API key.
+- **For Debugging Code (Step 2):**
+    - Python 3.6+    
+    - Access to your OpenAI API key.
     - Understanding of programming concepts and syntax.
     - Ability to craft detailed prompts for generating code.
     - Familiarity with a variety of programming languages.
+
+### Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/b8234/Azure-AI-Projects.git
+   cd Azure-AI-Projects/Generative\ AI\ and\ Prompt\ Engineering/Text\ Summarization\ with\ OpenAI
+   ```
+
+2. **Install the required Python packages:**
+
+   ```bash
+   pip install openai python-dotenv
+   ```
+
+3. **Set up your environment variables:**
+
+   Create a `.env` file in the root directory of the project and add your OpenAI API key:
+
+   ```
+   OPENAI_API_KEY='your_openai_api_key_here'
+   ```
 
 ## How to Use
 
