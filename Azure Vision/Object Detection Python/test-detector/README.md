@@ -20,7 +20,7 @@ To set up and run this project:
 ```
 git clone https://github.com/b8234/Azure-AI-Projects.git
 cd Azure-AI-Projects/Azure\ Vision/Object\ Detection\ Python/test-detector
-pip install azure-cognitiveservices-vision-customvision matplotlib Pillow numpy
+pip3 install azure-cognitiveservices-vision-customvision matplotlib Pillow numpy
 ```
 
 ## Configuration
@@ -38,7 +38,7 @@ pip install azure-cognitiveservices-vision-customvision matplotlib Pillow numpy
 - Run the script:
 
 ```
-python script_name.py
+python3 test-detector.py
 ```
 
 ## Example Output
