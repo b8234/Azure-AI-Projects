@@ -20,7 +20,7 @@ To set up and run this project:
 git clone https://github.com/b8234/Azure-AI-Projects.git
 cd Azure-AI-Projects/Azure\ Vision/Image\ Classification\ Python/test-classifier
 ```
-Ensure Python and necessary packages are installed.
+
 
 ## Configuration
 - Create and train a model in Azure Custom Vision.
