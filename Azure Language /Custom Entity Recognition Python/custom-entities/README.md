@@ -19,19 +19,18 @@ To set up this project:
 ```
 git clone https://github.com/b8234/Azure-AI-Projects.git
 cd Azure-AI-Projects/Azure\ Language/Custom\ Entity\ Recognition\ Python/custom-entities
-pip install azure-ai-textanalytics python-dotenv
 ```
 
 **Install Dependencies**:
 
-   ```bash
-   pip3 install python-dotenv azure-ai-textanalytics azure-core
-   ```
-   To install the required dependencies, run the following command:
+```bash
+pip3 install python-dotenv azure-ai-textanalytics azure-core
+```
+Or install the required dependencies, run the following command:
 
-   ```bash
-   pip3 install -r requirements.txt
-   ```
+```bash
+pip3 install -r requirements.txt
+```
 
 ## Configuration
 - Create Azure Text Analytics resources in Azure.
@@ -46,7 +45,7 @@ pip install azure-ai-textanalytics python-dotenv
 ## How to Use
 Run the script using:
 ```
-python script_name.py
+python3 custom-entities.py
 ```
 The script will analyze text files in the 'ads' directory for custom entities.
 
