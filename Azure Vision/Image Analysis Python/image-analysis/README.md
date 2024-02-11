@@ -27,7 +27,7 @@ Run command to install packages:
 pip3 install azure-cognitiveservices-vision-computervision msrest python-dotenv Pillow
 ```
 
-Or install the required dependencies via requirements.txt, run the following command:
+Or install the required dependencies via requirements, run the following command:
 
 ```bash
 pip3 install -r requirements.txt
