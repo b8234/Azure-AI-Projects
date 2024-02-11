@@ -17,7 +17,7 @@ This project is part of the Microsoft AI MS Learn series. It uses Azure Cognitiv
 To set up and run this project:
 
 ```
-git clone <repository-url>
+git clone https://github.com/b8234/Azure-AI-Projects.git
 cd <project-directory>
 ```
 Ensure Python and necessary packages are installed.
