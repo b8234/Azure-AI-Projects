@@ -19,7 +19,7 @@ To set up and run these projects:
 ```
 git clone https://github.com/b8234/Azure-AI-Projects.git
 cd Azure-AI-Projects/Azure\ Vision/Optical\ Character\ Recognition\ Python/read-text
-pip install azure-cognitiveservices-vision-computervision Pillow
+pip3 install azure-cognitiveservices-vision-computervision Pillow
 ```
 
 ## Configuration
@@ -35,8 +35,10 @@ pip install azure-cognitiveservices-vision-computervision Pillow
 - For remote OCR: Run the second script which processes a specified remote image URL.
 
 ```
-python local_ocr_script.py
-python remote_ocr_script.py
+python3 quickstart-file.py
+```
+```
+python3 quickstart-file2.py
 ```
 
 ## Example Output
