@@ -66,9 +66,9 @@ Failing to uncomment the code might result in the script not functioning correct
 3. **Execution**: Execute the script, enter the filenames to debug when prompted, and observe as ChatGPT corrects the errors, displaying the fixed code.
 4. Run the script:
 
-```
-python3 code_debugger.py
-```
+    ```
+    python3 code_debugger.py
+    ```
 
 ### Sample Code Debugging
 
