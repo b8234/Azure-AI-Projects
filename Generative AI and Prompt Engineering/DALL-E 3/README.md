@@ -23,7 +23,6 @@ Before running this script, ensure you have the following:
    ```bash
    git clone https://github.com/b8234/Azure-AI-Projects.git
    cd Azure-AI-Projects/Generative\ AI\ and\ Prompt\ Engineering/DALL-E\ 3
-   
    ```
 
 2. **Install Dependencies**:
@@ -31,7 +30,7 @@ Before running this script, ensure you have the following:
    ```bash
    pip3 install openai requests Pillow python-dotenv
    ```
-   To install the required dependencies, run the following command:
+   Or install the required dependencies, run the following command:
 
    ```bash
    pip3 install -r requirements.txt
