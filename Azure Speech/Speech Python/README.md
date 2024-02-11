@@ -24,7 +24,7 @@ cd Azure-AI-Projects/Azure\ Speech/Speech\ Python/speaking-clock
 Run command to install packages:
 
 ```
-pip3 install azure-cognitiveservices-speech playsound
+pip3 install python-dotenv azure-cognitiveservices-speech playsound
 ```
 
 To install the required dependencies, run the following command:
