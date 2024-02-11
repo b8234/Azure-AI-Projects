@@ -19,7 +19,18 @@ To set up and run this project:
 ```
 git clone https://github.com/b8234/Azure-AI-Projects.git
 cd Azure-AI-Projects/Azure\ Vision/Image\ Analysis\ Python/image-analysis
+```
+
+Run command to install packages:
+
+```
 pip3 install azure-cognitiveservices-vision-computervision python-dotenv pillow
+```
+
+Or install the required dependencies via requirements.txt, run the following command:
+
+```bash
+pip3 install -r requirements.txt
 ```
 
 ## Configuration
