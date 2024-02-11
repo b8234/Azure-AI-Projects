@@ -19,7 +19,18 @@ To set up this project:
 ```
 git clone https://github.com/b8234/Azure-AI-Projects.git
 cd Azure-AI-Projects/Azure\ Speech/Speech\ Translation\ Python/translator
-pip install azure-cognitiveservices-speech playsound
+```
+
+Run command to install packages:
+
+```
+pip3 install python-dotenv azure-cognitiveservices-speech playsound
+```
+
+To install the required dependencies, run the following command:
+
+```bash
+pip3 install -r requirements.txt
 ```
 
 ## Configuration
@@ -34,7 +45,7 @@ pip install azure-cognitiveservices-speech playsound
 Run the script and follow the prompts to speak in English. Choose the target language for translation:
 
 ```
-python script_name.py
+python3 translator.py
 ```
 
 ## Example Output
