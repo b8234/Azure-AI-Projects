@@ -20,7 +20,7 @@ Enhance your coding projects with ChatGPT's powerful capabilities. This guide wa
 
    ```bash
    git clone https://github.com/b8234/Azure-AI-Projects.git
-   cd Azure-AI-Projects/Generative\ AI\ and\ Prompt\ Engineering/Text\ Summarization\ with\ OpenAI
+   cd Azure-AI-Projects/Generative\ AI\ and\ Prompt\ Engineering/OpenAI\ Code\ Generation
    ```
 
 2. **Install the required Python packages:**
