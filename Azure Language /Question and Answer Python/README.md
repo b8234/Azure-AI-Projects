@@ -18,7 +18,7 @@ To set up this project:
 
 ```
 git clone https://github.com/b8234/Azure-AI-Projects.git
-cd <project-directory>
+cd Azure-AI-Projects/Azure\ Language/Question\ and\ Answer\ Python/qna-app
 pip install azure-ai-language python-dotenv
 ```
 
