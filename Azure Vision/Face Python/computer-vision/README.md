@@ -19,7 +19,7 @@ To set up and run these projects:
 ```
 git clone https://github.com/b8234/Azure-AI-Projects.git
 cd Azure-AI-Projects/Azure\ Vision/Face\ Python/computer-vision
-pip install azure-cognitiveservices-vision-computervision Pillow
+pip3 install azure-cognitiveservices-vision-computervision Pillow
 ```
 
 ## Configuration
@@ -35,8 +35,10 @@ pip install azure-cognitiveservices-vision-computervision Pillow
 - For remote image tagging, run the second script which accesses an image via a URL.
 
 ```
-python local_image_tagging_script.py
-python remote_image_tagging_script.py
+python3 detect-people_file.py
+```
+```
+python3 detect-people_url.py
 ```
 
 ## Example Output
