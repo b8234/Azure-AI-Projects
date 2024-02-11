@@ -18,7 +18,7 @@ To set up and run these projects:
 
 ```
 git clone https://github.com/b8234/Azure-AI-Projects.git
-cd Azure-AI-Projects
+cd Azure-AI-Projects/Azure\ Vision/Face\ Python/computer-vision
 pip install azure-cognitiveservices-vision-computervision Pillow
 ```
 
