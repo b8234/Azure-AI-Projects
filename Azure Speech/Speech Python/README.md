@@ -19,8 +19,20 @@ To set up this project:
 ```
 git clone https://github.com/b8234/Azure-AI-Projects.git
 cd Azure-AI-Projects/Azure\ Speech/Speech\ Python/speaking-clock
-pip install azure-cognitiveservices-speech playsound
 ```
+
+Run command to install packages:
+
+```
+pip3 install azure-cognitiveservices-speech playsound
+```
+
+To install the required dependencies, run the following command:
+
+```bash
+pip3 install -r requirements.txt
+```
+
 
 ## Configuration
 - Set up Azure Speech services in the Azure portal.
@@ -34,7 +46,7 @@ pip install azure-cognitiveservices-speech playsound
 Run the script, speak the command "What time is it?", and listen to the spoken response:
 
 ```
-python script_name.py
+python3 speaking-clock.py
 ```
 
 ## Example Output
