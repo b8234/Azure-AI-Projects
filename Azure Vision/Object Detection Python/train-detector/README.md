@@ -36,7 +36,7 @@ Ensure Python and necessary packages are installed.
 - Run the script to upload and tag images in your Custom Vision project:
 
 ```
-python script_name.py
+python3 train-detector.py
 ```
 
 ## Example Output
