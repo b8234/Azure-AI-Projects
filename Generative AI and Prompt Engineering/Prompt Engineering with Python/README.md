@@ -12,9 +12,9 @@ pip install openai python-dotenv
 ```
   Or install the required dependencies, run the following command:
 
-  ```bash
-  pip install -r requirements.txt
-  ```
+```bash
+pip install -r requirements.txt
+```
 
 3. Create a `.env` file in the project directory and add your OpenAI API key:
 
