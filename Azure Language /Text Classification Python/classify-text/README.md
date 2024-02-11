@@ -18,7 +18,7 @@ To set up and run this project:
 
 ```
 git clone https://github.com/b8234/Azure-AI-Projects.git
-cd <project-directory>
+cd Azure-AI-Projects/Azure\ Language/Text\ Classification\ Python/classify-text
 pip install azure-ai-textanalytics python-dotenv
 ```
 
