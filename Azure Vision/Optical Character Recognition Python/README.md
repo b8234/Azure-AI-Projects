@@ -19,7 +19,18 @@ To set up and run these projects:
 ```
 git clone https://github.com/b8234/Azure-AI-Projects.git
 cd Azure-AI-Projects/Azure\ Vision/Optical\ Character\ Recognition\ Python/read-text
+```
+
+Run command to install packages:
+
+```
 pip3 install azure-cognitiveservices-vision-computervision Pillow
+```
+
+Or install the required dependencies via requirements.txt, run the following command:
+
+```bash
+pip3 install -r requirements.txt
 ```
 
 ## Configuration
