@@ -26,7 +26,7 @@ cd Azure-AI-Projects/Azure\ Language/Question\ and\ Answer\ Python/qna-app
 ```bash
 pip3 install python-dotenv azure-core azure-ai-language-questionanswering
 ```
-Or install the required dependencies, run the following command:
+Or install the required dependencies via requirements, run the following command:
 
 ```bash
 pip3 install -r requirements.txt
