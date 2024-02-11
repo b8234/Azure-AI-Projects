@@ -23,14 +23,14 @@ cd Azure-AI-Projects/Azure\ Language/Analyze\ Text\ Python/text-analysis
 
 **Install Dependencies**:
 
-   ```bash
-   pip3 install python-dotenv azure-ai-textanalytics azure-core
-   ```
-   To install the required dependencies, run the following command:
+```bash
+pip3 install python-dotenv azure-ai-textanalytics azure-core
+```
+To install the required dependencies, run the following command:
 
-   ```bash
-   pip3 install -r requirements.txt
-   ```
+```bash
+pip3 install -r requirements.txt
+```
 
 ## Configuration
 - Set up Azure Cognitive Services in the Azure portal.
