@@ -24,7 +24,7 @@ cd Azure-AI-Projects/Azure\ Vision/Image\ Analysis\ Python/image-analysis
 Run command to install packages:
 
 ```
-pip3 install azure-cognitiveservices-vision-computervision python-dotenv pillow
+pip3 install azure-cognitiveservices-vision-computervision msrest python-dotenv Pillow
 ```
 
 Or install the required dependencies via requirements.txt, run the following command:
