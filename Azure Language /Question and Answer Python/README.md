@@ -19,15 +19,14 @@ To set up this project:
 ```
 git clone https://github.com/b8234/Azure-AI-Projects.git
 cd Azure-AI-Projects/Azure\ Language/Question\ and\ Answer\ Python/qna-app
-pip install azure-ai-language python-dotenv
 ```
 
 **Install Dependencies**:
 
 ```bash
-pip3 install python-dotenv azure-ai-textanalytics azure-core
+pip3 install python-dotenv azure-core azure-ai-language-questionanswering
 ```
-To install the required dependencies, run the following command:
+Or install the required dependencies, run the following command:
 
 ```bash
 pip3 install -r requirements.txt
@@ -47,7 +46,7 @@ pip3 install -r requirements.txt
 Run the script and input your question when prompted:
 
 ```
-python script_name.py
+python3 script_name.py
 ```
 The script will provide answers based on Azure AI's Question Answering service.
 
