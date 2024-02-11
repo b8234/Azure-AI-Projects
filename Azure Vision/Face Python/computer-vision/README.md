@@ -30,7 +30,7 @@ pip3 install azure-cognitiveservices-vision-computervision Pillow
 To install the required dependencies, run the following command:
 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Configuration
