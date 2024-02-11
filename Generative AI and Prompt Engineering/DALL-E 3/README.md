@@ -22,7 +22,8 @@ Before running this script, ensure you have the following:
 
    ```bash
    git clone https://github.com/b8234/Azure-AI-Projects.git
-   cd Azure-AI-Projects
+   cd Azure-AI-Projects/Generative\ AI\ and\ Prompt\ Engineering/DALL-E\ 3
+   
    ```
 
 2. **Install Dependencies**:
