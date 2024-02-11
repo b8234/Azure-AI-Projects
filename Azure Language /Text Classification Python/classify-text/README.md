@@ -22,6 +22,17 @@ cd Azure-AI-Projects/Azure\ Language/Text\ Classification\ Python/classify-text
 pip install azure-ai-textanalytics python-dotenv
 ```
 
+**Install Dependencies**:
+
+```bash
+pip3 install python-dotenv azure-ai-textanalytics azure-core
+```
+To install the required dependencies, run the following command:
+
+```bash
+pip3 install -r requirements.txt
+```
+
 ## Configuration
 - Create Azure Text Analytics resources in the Azure portal.
 - Add a `.env` file with Azure service details:
