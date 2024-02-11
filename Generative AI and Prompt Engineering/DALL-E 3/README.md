@@ -29,12 +29,12 @@ Before running this script, ensure you have the following:
 2. **Install Dependencies**:
 
    ```bash
-   pip install openai requests Pillow python-dotenv
+   pip3 install openai requests Pillow python-dotenv
    ```
    To install the required dependencies, run the following command:
 
    ```bash
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    ```
 
 3. **Set Up Environment Variables**:
@@ -49,9 +49,9 @@ Before running this script, ensure you have the following:
 
 To run the script, navigate to the project directory and execute:
 
-```bash
-python generate_image.py
-```
+   ```bash
+   python3 generate_image.py
+   ```
 
 Follow the prompt to enter a description of the image you wish to generate. The script will handle the generation and saving process, notifying you of the outcome.
 
