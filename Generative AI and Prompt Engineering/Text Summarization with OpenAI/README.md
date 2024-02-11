@@ -16,7 +16,7 @@ These instructions will get you up and running with the project on your local ma
 1. **Clone the repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/b8234/Azure-AI-Projects.git
    cd Azure-AI-Projects
    ```
 
