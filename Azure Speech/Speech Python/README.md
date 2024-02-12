@@ -35,7 +35,27 @@ pip3 install -r requirements.txt
 
 
 ## Configuration
-- Set up Azure Speech services in the Azure portal.
+
+### Provision an Azure AI Speech Resource
+
+Azure AI Speech is a service that provides speech-related functionality, including speech-to-text and text-to-speech APIs. Follow these steps to provision an Azure AI Speech resource:
+
+1. Open the Azure portal at [https://portal.azure.com](https://portal.azure.com) and sign in with your Microsoft account associated with your Azure subscription.
+2. In the search field at the top, search for "Azure AI services" and press Enter.
+3. Under the results, select Create under "Speech service".
+4. Configure the resource with the following settings:
+   - Subscription: Your Azure subscription.
+   - Resource group: Choose or create a resource group.
+   - Region: Choose any available region.
+   - Name: Enter a unique name.
+   - Pricing tier: Select F0 (free) or S (standard) if F is not available.
+   - Responsible AI Notice: Agree.
+5. Select Review + create.
+6. Wait for deployment to complete, and then go to the deployed resource.
+7. View the Keys and Endpoint page. You will need the information on this page later in the exercise.
+
+### Create .env file to store credentials
+
 - Create a `.env` file with the necessary Azure service details:
   ```
   SPEECH_KEY=your_speech_service_key
