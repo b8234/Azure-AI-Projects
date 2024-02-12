@@ -23,7 +23,7 @@ cd Azure-AI-Projects/Azure\ Vision/Optical\ Character\ Recognition\ Python/read-
 
 Run command to install packages:
 
-```
+```bash
 pip3 install azure-cognitiveservices-vision-computervision msrest python-dotenv Pillow
 ```
 
@@ -34,7 +34,33 @@ pip3 install -r requirements.txt
 ```
 
 ## Configuration
-- Set up Azure Computer Vision resources in the Azure portal.
+
+1. **Sign in to the Azure Portal**:
+   - Open a web browser and navigate to [https://portal.azure.com](https://portal.azure.com).
+   - Sign in using the Microsoft account associated with your Azure subscription.
+
+2. **Create Azure AI Services Resource**:
+   - In the top search bar of the Azure portal, search for "Azure AI services" and select **Azure AI Services** from the suggestions.
+   - Click on the **Create** button to begin creating a new Azure AI Services resource.
+   - Provide the following details for the resource:
+     - **Subscription:** Select your Azure subscription.
+     - **Resource group:** Choose an existing resource group or create a new one. (Note: If you have restricted permissions, you may need to use a provided resource group.)
+     - **Region:** Choose one of the supported regions (East US, France Central, Korea Central, North Europe, Southeast Asia, West Europe, West US, or East Asia).
+     - **Name:** Enter a unique name for your Azure AI Services resource.
+     - **Pricing tier:** Select **Standard S0**.
+   - Once all details are provided, review the configuration and click on the **Review + create** button.
+
+3. **Deployment and Validation**:
+   - Review the summary of your resource configuration, then click **Create** to deploy the resource.
+   - Monitor the deployment progress in the Azure portal. Wait for the deployment to complete.
+   - After deployment, navigate to the resource you created to view its details.
+
+4. **Retrieve Keys and Endpoint**:
+   - In the Azure AI Services resource, locate and navigate to the **Keys and Endpoint** page.
+   - Note down the endpoint URL and one of the access keys listed on this page. You'll need these for configuring your applications to access the AI services.
+
+### Create an .env file to store credentials
+
 - Create a `.env` file with your Azure service details:
   ```
   VISION_KEY=your_vision_key
