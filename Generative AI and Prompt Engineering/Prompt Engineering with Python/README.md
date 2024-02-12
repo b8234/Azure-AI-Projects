@@ -2,41 +2,40 @@
 
 This Python script utilizes the GPT-3.5 Turbo model from OpenAI to generate unique and fictional names for planets, along with descriptions for each planet type.
 
+## Retrieving OpenAI API Key
+
+1. **Sign Up/Login to OpenAI**:
+   - If you don't already have an account, visit the OpenAI website at [openai.com](https://openai.com) and sign up for an account. If you have an account, log in using your credentials.
+
+2. **Navigate to API Section**:
+   - Once logged in, navigate to the API section of the OpenAI website. You can usually find this in the main menu or dashboard.
+
+3. **Request API Access**:
+   - Look for the option to request API access or generate an API key. Click on it to proceed.
+
+4. **Provide Necessary Information**:
+   - Fill out any required forms or fields with accurate information. This may include details about your intended use case or project.
+
+5. **Receive API Key**:
+   - Once your request is approved, you'll receive your API key. This key is typically provided in the form of a string of alphanumeric characters.
+
+6. **Secure Your API Key**:
+   - Keep your API key secure and avoid sharing it publicly. Treat it like a password and store it securely. Avoid hardcoding it directly into your code.
+
+7. **Start Using the API**:
+   - You can now use your OpenAI API key to access the available APIs and integrate them into your applications. Refer to the OpenAI documentation for guidance on how to use the API effectively.
+
 ## Setup
 
 1. Clone this repository to your local machine.
 
-## Retrieving OpenAI API Key
-
-   1. **Sign Up/Login to OpenAI**:
-   - If you don't already have an account, visit the OpenAI website at               
-   [openai.com](https://openai.com) and sign up for an account. If you have an account,      log in using your credentials.
-
-   2. **Navigate to API Section**:
-   - Once logged in, navigate to the API section of the OpenAI website. You can usually      find this in the main menu or dashboard.
-
-   3. **Request API Access**:
-   - Look for the option to request API access or generate an API key. Click on it to        proceed.
-
-   4. **Provide Necessary Information**:
-   - Fill out any required forms or fields with accurate information. This may include       details about your intended use case or project.
-
-   5. **Receive API Key**:
-   - Once your request is approved, you'll receive your API key. This key is typically       provided in the form of a string of alphanumeric characters.
-
-   6. **Secure Your API Key**:
-   - Keep your API key secure and avoid sharing it publicly. Treat it like a password and    store it securely. Avoid hardcoding it directly into your code.
-
-   7. **Start Using the API**:
-   - You can now use your OpenAI API key to access the available APIs and integrate them     into your applications. Refer to the OpenAI documentation for guidance on how to use      the API effectively.
-
-
 2. Install the required Python packages using pip3:
 
-```
+```bash
 pip3 install openai python-dotenv
 ```
-  Or install the required dependencies via requirements, run the following command:
+
+   Or install the required dependencies via requirements, run the following command:
 
 ```bash
 pip3 install -r requirements.txt
@@ -50,7 +49,7 @@ OPENAI_API_KEY=your_api_key_here
 
 4. Run the script:
 
-```
+```bash
 python3 planet_generator.py
 ```
 
@@ -73,7 +72,6 @@ planet_types = ['Gas Giant', 'Moon', 'Rogue Planet']
 ```
 
 Run the script and observe the generated planet names and descriptions printed to the console.
-
 
 ## Contributing
 
