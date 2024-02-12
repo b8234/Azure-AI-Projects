@@ -33,7 +33,7 @@ pip3 install -r requirements.txt
 ```
 
 ## Configuration
-- Set up Azure Cognitive Services in the Azure portal.
+- Set up an Azure Cognitive Services resource in the Azure portal, choosing either the Azure AI services multi-service option or the     single language resource.
 - Create a `.env` file with Azure service credentials:
   ```
   COG_SERVICE_KEY=your_key
