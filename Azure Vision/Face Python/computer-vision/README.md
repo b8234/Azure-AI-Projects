@@ -34,7 +34,25 @@ pip3 install -r requirements.txt
 ```
 
 ## Configuration
-- Set up Azure Computer Vision resources in Azure.
+
+### Provision an Azure AI Services Resource
+
+If you don’t already have one in your subscription, you’ll need to provision an Azure AI Services resource. Follow these steps:
+
+1. Open the Azure portal at [https://portal.azure.com](https://portal.azure.com) and sign in using the Microsoft account associated with your Azure subscription.
+2. In the top search bar, search for "Azure AI services" and select Azure AI Services.
+3. Create an Azure AI services multi-service account resource with the following settings:
+   - Subscription: Your Azure subscription.
+   - Resource group: Choose or create a resource group. (If you are using a restricted subscription, you may not have permission to create a new resource group - use the one provided).
+   - Region: Choose any available region.
+   - Name: Enter a unique name.
+   - Pricing tier: Standard S0.
+   - Select the required checkboxes and create the resource.
+4. Wait for deployment to complete, and then view the deployment details.
+5. When the resource has been deployed, go to it and view its Keys and Endpoint page. 
+
+### Create an .env file to store credentials
+
 - Create a `.env` file with your Azure service credentials:
   ```
   VISION_KEY=your_vision_key
