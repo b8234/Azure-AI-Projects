@@ -44,8 +44,8 @@ Explore the power of Azure Vision with these projects:
 
 - [Face with Python README](https://github.com/b8234/Azure-AI-Projects/blob/main/Azure%20Vision/Face%20Python/computer-vision/README.md): Analyzes images using Azure Computer Vision service to detect faces.
 - [Image Analysis with Python README](https://github.com/b8234/Azure-AI-Projects/blob/main/Azure%20Vision/Image%20Analysis%20Python/image-analysis/README.md): Analyzes images using Azure Computer Vision service for categories, descriptions, and tags.
-- [Image Classification with Python Trained README](https://github.com/b8234/Azure-AI-Projects/blob/main/Azure%20Vision/Image%20Classification%20Python/train-classifier/README.md): Handles image classification using Azure Cognitive Services Custom Vision.
-- [Object Detection with Python Trained README](https://github.com/b8234/Azure-AI-Projects/blob/main/Azure%20Vision/Object%20Detection%20Python/train-detector/README.md): Enables custom object detection using Azure Cognitive Services.
+- [Image Classification with Python README](https://github.com/b8234/Azure-AI-Projects/blob/main/Azure%20Vision/Image%20Classification%20Python/README.md): Handles image classification using Azure Cognitive Services Custom Vision.
+- [Object Detection with Python README](https://github.com/b8234/Azure-AI-Projects/blob/main/Azure%20Vision/Object%20Detection%20Python/README.md): Enables custom object detection using Azure Cognitive Services.
 - [Optical Character Recognition with Python README](https://github.com/b8234/Azure-AI-Projects/blob/main/Azure%20Vision/Optical%20Character%20Recognition%20Python/README.md): Extracts text from images using Azure Cognitive Services Computer Vision.
 
 ## Azure Vision Studio Portfolio
