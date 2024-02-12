@@ -129,9 +129,7 @@ Now you’re ready to publish your trained model so that it can be used from a c
 - Run the respective scripts:
   
   For training:
-  ```
-
-bash
+  ```bash
   python3 train-classifier.py
   ```
 
