@@ -33,7 +33,27 @@ pip3 install -r requirements.txt
 ```
 
 ## Configuration
-- Set up Azure Translation resources in Azure.
+
+### Provision an Azure AI Translator Resource
+
+Azure AI Translator is a service that enables you to translate text between languages. Follow these steps to provision an Azure AI Translator resource:
+
+1. Open the Azure portal at [https://portal.azure.com](https://portal.azure.com) and sign in with your Microsoft account associated with your Azure subscription.
+2. In the search field at the top, search for "Azure AI services" and press Enter.
+3. Under the results, select Create under "Translator".
+4. Configure the resource with the following settings:
+   - Subscription: Your Azure subscription.
+   - Resource group: Choose or create a resource group.
+   - Region: Choose any available region.
+   - Name: Enter a unique name.
+   - Pricing tier: Select F0 (free) or S (standard) if F is not available.
+   - Responsible AI Notice: Agree.
+5. Select Review + create.
+6. Wait for deployment to complete, and then go to the deployed resource.
+7. View the Keys and Endpoint page. 
+
+### Create an env file to store credentials
+
 - Add a `.env` file with Azure service credentials:
   ```
   TRANSLATOR_KEY=your_translator_key
