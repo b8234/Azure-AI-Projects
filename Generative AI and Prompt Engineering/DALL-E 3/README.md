@@ -16,6 +16,30 @@ Before running this script, ensure you have the following:
 - An OpenAI API key with access to the DALL-E 3 model.
 - The `openai`, `requests`, and `Pillow` Python packages installed.
 
+## Retrieving OpenAI API Key
+
+
+1. **Sign Up/Login to OpenAI**:
+   - If you don't already have an account, visit the OpenAI website at [openai.com](https://openai.com) and sign up for an account. If you have an account, log in using your credentials.
+
+2. **Navigate to API Section**:
+   - Once logged in, navigate to the API section of the OpenAI website. You can usually find this in the main menu or dashboard.
+
+3. **Request API Access**:
+   - Look for the option to request API access or generate an API key. Click on it to proceed.
+
+4. **Provide Necessary Information**:
+   - Fill out any required forms or fields with accurate information. This may include details about your intended use case or project.
+
+5. **Receive API Key**:
+   - Once your request is approved, you'll receive your API key. This key is typically provided in the form of a string of alphanumeric characters.
+
+6. **Secure Your API Key**:
+   - Keep your API key secure and avoid sharing it publicly. Treat it like a password and store it securely. Avoid hardcoding it directly into your code.
+
+7. **Start Using the API**:
+   - You can now use your OpenAI API key to access the available APIs and integrate them into your applications. Refer to the OpenAI documentation for guidance on how to use the API effectively.
+
 ## Installation
 
 1. **Clone the Repository**:
