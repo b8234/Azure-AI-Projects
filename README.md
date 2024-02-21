@@ -70,11 +70,7 @@ Explore various projects showcasing Azure AI Services:
 
 ## Acknowledgments
 
-The code exercises in the Generative AI and Prompt Engineering folder are sourced from the Microsoft Learn AI series. Additionally, contributions from the community have enriched this repository with custom projects and demonstrations.
-
-## Contributions
-
-Contributions to this repository are welcome! Whether it's bug fixes, feature enhancements, or new projects, feel free to submit pull requests to contribute to the Azure AI community.
+The code exercises in the Generative AI and Prompt Engineering folder are inspired by the Microsoft Learn AI series.
 
 ## License
 
